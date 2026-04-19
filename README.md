@@ -10,13 +10,11 @@ MIIIMESnippetPicker · 미메 스니펫 피커<br>
 <br>
 
 A lightweight Windows desktop utility that lets you build text strings from registered special characters and symbols, then copy them to the clipboard.  
+
 등록된 특수문자·기호를 버튼 클릭으로 조합해 클립보드에 복사하는 경량 Windows 데스크탑 유틸리티입니다.
 
 <br>
-<img width="211" height="549" alt="001" src="https://github.com/miiimeworks/MSP/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
-<img width="211" height="549" alt="002" src="https://github.com/miiimeworks/MSP/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
-<img width="211" height="549" alt="003" src="https://github.com/miiimeworks/MSP/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
-<img width="211" height="549" alt="004" src="https://github.com/miiimeworks/MSP/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
+<img width="211" height="549" alt="001" src="https://github.com/miiimeworks/MSP/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;"> 
 <br>
 
 ---
