@@ -11,7 +11,7 @@ MIIIMESnippetPicker · 미메스니펫피커<br>
 
 A lightweight Windows desktop utility that lets you build text strings from registered special characters and symbols, then copy them to the clipboard.  
 
-등록된 특수문자·기호를 버튼 클릭으로 조합해 클립보드에 복사하는 경량 Windows 데스크탑 유틸리티입니다.
+등록된 특수문자 · 기호를 버튼 클릭으로 조합해 클립보드에 복사하는 경량 Windows 데스크탑 유틸리티입니다.
 
 <br>
 <img width="211" height="549" alt="001" src="https://github.com/miiimeworks/MSP/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;"> 
@@ -24,7 +24,7 @@ A lightweight Windows desktop utility that lets you build text strings from regi
 - Build text strings by clicking snippet buttons / 스니펫 버튼 클릭으로 문자열 조합
 - Copy assembled text to clipboard with one click / 조합된 텍스트를 원클릭으로 클립보드 전송
 - Category and snippet data managed via INI file / INI 파일로 카테고리 및 스니펫 데이터 관리
-- 4-tier button layout (Size 1–4): 8 / 4 / 2 / 1 columns / 4단계 버튼 레이아웃: 8열 / 4열 / 2열 / 1열
+- 4-tier button layout (Size 1–4) : 8 / 4 / 2 / 1 columns / 4단계 버튼 레이아웃 : 8열 / 4열 / 2열 / 1열
 - Undo stack with configurable depth / 횟수 설정 가능한 Undo 스택 지원
 - MIIIME Dark Square Theme applied / MIIIME Dark Square Theme 적용
 
@@ -56,7 +56,7 @@ A lightweight Windows desktop utility that lets you build text strings from regi
 ## Configuration / 설정
 
 Manage categories and snippets via `MIIIMESnippetPicker.ini`.  
-`MIIIMESnippetPicker.ini` 파일로 카테고리와 스니펫을 관리합니다.
+`MIIIMESnippetPicker.ini` 파일로 카테고리와 스니펫을 관리.
 
 ### INI Structure / INI 구조
 
@@ -77,10 +77,10 @@ Size=1
 Data=A|B|C|D
 ```
 
-**Size** : 1–4. Defaults to 1 if omitted. / 미지정 시 기본값 1  
-**Data** : `|`-delimited. Items exceeding the Size limit are ignored. / `|` 구분자, Size별 최대 개수 초과분 무시  
-**Category** : Up to 8 entries. / 최대 8개  
-**UndoLimit** : Stack depth. 0 = unlimited (max 100). Default 5. / Undo 스택 깊이. 0=무제한(최대 100), 기본값 5
+**Size** : 1–4. Defaults to 1 if omitted. / 미지정 시 기본값 1.  
+**Data** : `|`-delimited. Items exceeding the Size limit are ignored. / `|` 구분자, Size별 최대 개수 초과분 무시.  
+**Category** : Up to 8 entries. / 최대 8개. 
+**UndoLimit** : Stack depth. 0 = unlimited (max 100). Default 5. / Undo 스택 깊이. 0=무제한(최대 100), 기본값 5.
 
 ---
 
