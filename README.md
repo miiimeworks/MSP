@@ -1,5 +1,5 @@
 # MIIIME Snippet Picker (MSP™)
-MIIIMESnippetPicker · 미메 스니펫 피커<br>
+MIIIMESnippetPicker · 미메스니펫피커<br>
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
 [![Language](https://img.shields.io/badge/Language-AutoIt-orange?logo=autoit&style=flat-square)](https://www.autoitscript.com/site/)
