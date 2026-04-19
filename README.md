@@ -1,4 +1,5 @@
 # MIIIME Snippet Picker (MSP™)
+
 MIIIMESnippetPicker · 미메스니펫피커<br>
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
@@ -21,12 +22,12 @@ A lightweight Windows desktop utility that lets you build text strings from regi
 
 ## Overview
 
-- Build text strings by clicking snippet buttons / 스니펫 버튼 클릭으로 문자열 조합
-- Copy assembled text to clipboard with one click / 조합된 텍스트를 원클릭으로 클립보드 전송
-- Category and snippet data managed via INI file / INI 파일로 카테고리 및 스니펫 데이터 관리
-- 4-tier button layout (Size 1–4) : 8 / 4 / 2 / 1 columns / 4단계 버튼 레이아웃 : 8열 / 4열 / 2열 / 1열
-- Undo stack with configurable depth / 횟수 설정 가능한 Undo 스택 지원
-- MIIIME Dark Square Theme applied / MIIIME Dark Square Theme 적용
+- Build text strings by clicking snippet buttons / 스니펫 버튼 클릭으로 문자열 조합.
+- Copy assembled text to clipboard with one click / 조합된 텍스트를 원클릭으로 클립보드 전송.
+- Category and snippet data managed via INI file / INI 파일로 카테고리 및 스니펫 데이터 관리.
+- 4-tier button layout (Size 1–4) : 8 / 4 / 2 / 1 columns / 4단계 버튼 레이아웃 : 8열 / 4열 / 2열 / 1열.
+- Undo stack with configurable depth / 횟수 설정 가능한 Undo 스택 지원.
+- MIIIME Dark Square Theme applied / MIIIME Dark Square Theme 적용.
 
 ---
 
@@ -35,21 +36,21 @@ A lightweight Windows desktop utility that lets you build text strings from regi
 ### Button Layout (Size 1–4) / 버튼 레이아웃
 
 | Size | Columns / 열 수 | Button Width / 버튼 폭 | Max Items / 최대 개수 |
-|------|----------------|----------------------|----------------------|
-| 1    | 8              | 23 px                | 64                   |
-| 2    | 4              | 47 px                | 32                   |
-| 3    | 2              | 95 px               | 16                   |
-| 4    | 1              | 191 px               | 8                    |
+| ---- | ------------- | ------------------- | ----------------- |
+| 1    | 8             | 23 px               | 64                |
+| 2    | 4             | 47 px               | 32                |
+| 3    | 2             | 95 px               | 16                |
+| 4    | 1             | 191 px              | 8                 |
 
 ### Controls / 조작 버튼
 
-| Button / 버튼 | Function / 기능 |
-|--------------|----------------|
-| T | Toggle Always on Top / 항상 위 토글 |
-| I | Open INI file / INI 파일 열기 |
-| R | Clear input field / 입력창 초기화 |
-| U | Undo last snippet / 마지막 스니펫 제거 |
-| Clipboard | Copy input to clipboard / 입력창 내용을 클립보드로 복사 |
+| Button / 버튼 | Function / 기능                              |
+| ----------- | ------------------------------------------ |
+| T           | Toggle Always on Top / 항상 위 토글             |
+| I           | Open INI file / INI 파일 열기                  |
+| R           | Clear input field / 입력창 초기화                |
+| U           | Undo last snippet / 마지막 스니펫 제거             |
+| Clipboard   | Copy input to clipboard / 입력창 내용을 클립보드로 복사 |
 
 ---
 
@@ -77,10 +78,10 @@ Size=1
 Data=A|B|C|D
 ```
 
-**Size** : 1–4. Defaults to 1 if omitted. / 미지정 시 기본값 1.  
-**Data** : `|`-delimited. Items exceeding the Size limit are ignored. / `|` 구분자, Size별 최대 개수 초과분 무시.  
-**Category** : Up to 8 entries. / 최대 8개. 
-**UndoLimit** : Stack depth. 0 = unlimited (max 100). Default 5. / Undo 스택 깊이. 0=무제한(최대 100), 기본값 5.
+**Size** : 1–4. Defaults to 1 if omitted / 미지정 시 기본값 1.  
+**Data** : `|`-delimited. Items exceeding the Size limit are ignored / `|` 구분자, Size별 최대 개수 초과분 무시.  
+**Category** : Up to 8 entries / 최대 8개. 
+**UndoLimit** : Stack depth. 0 = unlimited (max 100). Default 5 / Undo 스택 깊이. 0=무제한(최대 100), 기본값 5.
 
 ---
 
