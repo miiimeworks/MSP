@@ -96,7 +96,7 @@ MIIIMESnippetPicker/
 
 ## 🛡️ Security & Anti-virus Info
 
-### [✅ VirusTotal Analysis Report](https://www.virustotal.com/gui/file/b409effb9c3dd77c2b2ef736ddb7f4b7ac2ac9cc2b460937124b99ec85965992?nocache=1)
+### [✅ VirusTotal Analysis Report](https://www.virustotal.com/gui/file/295863c129106da68671724ed0eb702451a47268db043ed112e6aff911990fa5?nocache=1)
 
 | Status             | Details                                                                        |
 |:------------------ |:------------------------------------------------------------------------------ |
@@ -107,7 +107,7 @@ MIIIMESnippetPicker/
 > This launcher was created with AutoIt. Some antivirus programs may incorrectly detect it as a virus.  
 > 본 런처는 AutoIt으로 제작되었습니다. 일부 백신이 바이러스로 오진 할 수 있습니다. 
 
-**File Checksum (SHA-256) :** `b409effb9c3dd77c2b2ef736ddb7f4b7ac2ac9cc2b460937124b99ec85965992`
+**File Checksum (SHA-256) :** `295863c129106da68671724ed0eb702451a47268db043ed112e6aff911990fa5`
 
 ---
 
