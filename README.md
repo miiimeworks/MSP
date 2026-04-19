@@ -37,9 +37,9 @@ A lightweight Windows desktop utility that lets you build text strings from regi
 | Size | Columns / 열 수 | Button Width / 버튼 폭 | Max Items / 최대 개수 |
 |------|----------------|----------------------|----------------------|
 | 1    | 8              | 23 px                | 64                   |
-| 2    | 4              | 66 px                | 32                   |
-| 3    | 2              | 133 px               | 16                   |
-| 4    | 1              | 270 px               | 8                    |
+| 2    | 4              | 47 px                | 32                   |
+| 3    | 2              | 95 px               | 16                   |
+| 4    | 1              | 191 px               | 8                    |
 
 ### Controls / 조작 버튼
 

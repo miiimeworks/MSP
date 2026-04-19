@@ -32,9 +32,9 @@ from registered special characters and symbols, then copy them to the clipboard.
 ========================================================================
 
   Size 1 : 8 columns / 8열  |  23 px  |  max 64 items / 최대 64개
-  Size 2 : 4 columns / 4열  |  66 px  |  max 32 items / 최대 32개
-  Size 3 : 2 columns / 2열  | 133 px  |  max 16 items / 최대 16개
-  Size 4 : 1 column  / 1열  | 270 px  |  max  8 items / 최대  8개
+  Size 2 : 4 columns / 4열  |  47 px  |  max 32 items / 최대 32개
+  Size 3 : 2 columns / 2열  |  95 px  |  max 16 items / 최대 16개
+  Size 4 : 1 column  / 1열  | 191 px  |  max  8 items / 최대  8개
 
 ========================================================================
 [Controls]
