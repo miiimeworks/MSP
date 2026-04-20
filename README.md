@@ -105,8 +105,8 @@ MIIIMESnippetPicker/
 | **Detection Rate** | **9 / 72** (Mostly Heuristic/Generic/Trojan-type flags)                        |
 | **Integrity**      | The source code is transparently available for verification in this repository |
 
-> This launcher was created with AutoIt. Some antivirus programs may incorrectly detect it as a virus.  
-> 본 런처는 AutoIt으로 제작되었습니다. 일부 백신이 바이러스로 오진 할 수 있습니다. 
+> This Program was created with AutoIt. Some antivirus programs may incorrectly detect it as a virus.  
+> 본 프로그램은 AutoIt으로 제작되었습니다. 일부 백신이 바이러스로 오진 할 수 있습니다. 
 
 **File Checksum (SHA-256) :** `295863c129106da68671724ed0eb702451a47268db043ed112e6aff911990fa5`
 
@@ -114,10 +114,10 @@ MIIIMESnippetPicker/
 
 ## Disclaimer
 
-Provided **"AS IS"**, without warranty.  
+Provided **“AS IS”**, without warranty.  
 This is a **private project**. No technical support is provided.
 
-본 프로그램은 **"있는 그대로"** 제공되며, 사용 중 발생하는 문제에 대해 제작자는 책임을 지지 않습니다.  
+본 프로그램은 **“있는 그대로”** 제공되며, 사용 중 발생하는 문제에 대해 제작자는 책임을 지지 않습니다.  
 기술 지원은 제공되지 않습니다.
 
 ---
