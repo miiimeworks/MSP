@@ -102,7 +102,7 @@ MIIIMESnippetPicker/
 | Status             | Details                                                                        |
 |:------------------ |:------------------------------------------------------------------------------ |
 | **Major Vendors**  | **Clean** (Passed by AhnLab V3, Kaspersky, Microsoft, Avast, ESET, etc.)       |
-| **Detection Rate** | **9 / 72** (Mostly Heuristic/Generic/Trojan-type flags)                        |
+| **Detection Rate** | **10 / 72** (Mostly Heuristic/Generic/Trojan-type flags)                       |
 | **Integrity**      | The source code is transparently available for verification in this repository |
 
 > This Program was created with AutoIt. Some antivirus programs may incorrectly detect it as a virus.  
