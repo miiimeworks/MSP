@@ -49,8 +49,8 @@ A lightweight Windows desktop utility that lets you build text strings from regi
 | T           | Toggle Always on Top / 항상 위 토글             |
 | I           | Open INI file / INI 파일 열기                  |
 | R           | Reset input field / 입력창 초기화                |
-| U           | Undo last snippet / 마지막 스니펫 제거             |
-| Clipboard   | Copy input to clipboard / 입력창 내용을 클립보드로 복사 |
+| B           | Backspace / 백스페이스                          |
+| Copy        | Copy input to clipboard / 입력창 내용을 클립보드로 복사 |
 
 ---
 
@@ -62,9 +62,6 @@ Manage categories and snippets via `MIIIMESnippetPicker.ini`.
 ### INI Structure / INI 구조
 
 ```ini
-[Options]
-UndoLimit=5   
-
 [Category]
 01=Category Name1
 02=Category Name2
@@ -78,10 +75,11 @@ Size=1
 Data=A|B|C|D
 ```
 
+**Category** : Up to 8 entries / 최대 8개.  
 **Size** : 1–4. Defaults to 1 if omitted / 미지정 시 기본값 1.  
 **Data** : `|`-delimited. Items exceeding the Size limit are ignored / `|` 구분자, Size별 최대 개수 초과분 무시.  
-**Category** : Up to 8 entries / 최대 8개. 
-**UndoLimit** : Stack depth. 0 = unlimited (max 100). Default 5 / Undo 스택 깊이. 0=무제한(최대 100), 기본값 5.
+
+
 
 ---
 
