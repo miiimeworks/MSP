@@ -76,7 +76,7 @@ Data=A|B|C|D
 ```
 
 **Category** : Up to 8 entries / 최대 8개.  
-**Size** : 1–4. Defaults to 1 if omitted / 미지정 시 기본값 1.  
+**Size** : 1–4. Defaults to 1 if omitted / 사이즈 단계 1-4. 미지정 시 기본값 1.  
 **Data** : `|`-delimited. Items exceeding the Size limit are ignored / `|` 구분자, Size별 최대 개수 초과분 무시.  
 
 
