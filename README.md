@@ -48,7 +48,7 @@ A lightweight Windows desktop utility that lets you build text strings from regi
 | ----------- | ------------------------------------------ |
 | T           | Toggle Always on Top / 항상 위 토글             |
 | I           | Open INI file / INI 파일 열기                  |
-| R           | Reset input field / 입력창 초기화                |
+| C           | Clear input field / 입력창 초기화                |
 | B           | Backspace / 백스페이스                          |
 | Copy        | Copy input to clipboard / 입력창 내용을 클립보드로 복사 |
 
@@ -95,18 +95,18 @@ MIIIMESnippetPicker/
 
 ## 🛡️ Security & Anti-virus Info
 
-### [✅ VirusTotal Analysis Report](https://www.virustotal.com/gui/file/295863c129106da68671724ed0eb702451a47268db043ed112e6aff911990fa5?nocache=1)
+### [✅ VirusTotal Analysis Report](https://www.virustotal.com/gui/file/5e3bd135d1c25ec1031a71227fefee9aab5266ab85bad702fbf4ddc04db1f7a7)
 
 | Status             | Details                                                                        |
 |:------------------ |:------------------------------------------------------------------------------ |
 | **Major Vendors**  | **Clean** (Passed by AhnLab V3, Kaspersky, Microsoft, Avast, ESET, etc.)       |
-| **Detection Rate** | **10 / 72** (Mostly Heuristic/Generic/Trojan-type flags)                       |
+| **Detection Rate** | **7 / 72** (Mostly Heuristic/Generic/Trojan-type flags)                       |
 | **Integrity**      | The source code is transparently available for verification in this repository |
 
 > This Program was created with AutoIt. Some antivirus programs may incorrectly detect it as a virus.  
 > 본 프로그램은 AutoIt으로 제작되었습니다. 일부 백신이 바이러스로 오진 할 수 있습니다. 
 
-**File Checksum (SHA-256) :** `295863c129106da68671724ed0eb702451a47268db043ed112e6aff911990fa5`
+**File Checksum (SHA-256) :** `5e3bd135d1c25ec1031a71227fefee9aab5266ab85bad702fbf4ddc04db1f7a7`
 
 ---
 
