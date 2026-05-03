@@ -42,7 +42,7 @@ from registered special characters and symbols, then copy them to the clipboard.
 
   T         	: Toggle Always on Top / 항상 위 토글
   I         		: Open INI file / INI 파일 열기
-  R         	: Reset input field / 입력창 초기화
+  C         	: Clear input field / 입력창 초기화
   U         	: Undo last snippet / 마지막 스니펫 제거
   Clipboard 	: Copy input to clipboard / 입력창 내용을 클립보드로 복사
 
