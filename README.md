@@ -79,8 +79,6 @@ Data=A|B|C|D
 **Size** : 1–4. Defaults to 1 if omitted / 사이즈 단계 1-4. 미지정 시 기본값 1.  
 **Data** : `|`-delimited. Items exceeding the Size limit are ignored / `|` 구분자, Size별 최대 개수 초과분 무시.  
 
-
-
 ---
 
 ## Directory Structure / 디렉토리 구조
@@ -100,7 +98,7 @@ MIIIMESnippetPicker/
 | Status             | Details                                                                        |
 |:------------------ |:------------------------------------------------------------------------------ |
 | **Major Vendors**  | **Clean** (Passed by AhnLab V3, Kaspersky, Microsoft, Avast, ESET, etc.)       |
-| **Detection Rate** | **7 / 72** (Mostly Heuristic/Generic/Trojan-type flags)                       |
+| **Detection Rate** | **7 / 70** (Mostly Heuristic/Generic/Trojan-type flags)                        |
 | **Integrity**      | The source code is transparently available for verification in this repository |
 
 > This Program was created with AutoIt. Some antivirus programs may incorrectly detect it as a virus.  
