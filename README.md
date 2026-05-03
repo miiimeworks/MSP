@@ -10,9 +10,9 @@ MIIIMESnippetPicker · 미메스니펫피커<br>
 <img width="559" height="136" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Enhanced/Id/Neon/4b_136_1_G.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br>
 
-MIIIMESnippetPicker is a lightweight Windows desktop utility that combines registered special characters and symbols with the click of a button and copies them to the clipboard.  
+MIIIMESnippetPicker combines special characters and symbols with a click of a button and copies them to the clipboard.  
 
-미메스니펫피커는 등록된 특수문자 · 기호를 버튼 클릭으로 조합해 클립보드에 복사하는 경량 Windows 데스크탑 유틸리티입니다.
+미메스니펫피커는 등록된 특수문자 · 기호를 버튼 클릭으로 조합해 클립보드에 복사합니다.
 
 <br>
 <img width="211" height="549" alt="001" src="https://github.com/miiimeworks/MSP/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;"> 
