@@ -10,9 +10,9 @@ MIIIMESnippetPicker · 미메스니펫피커<br>
 <img width="559" height="136" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Enhanced/Id/Neon/4b_136_1_G.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br>
 
-MIIIMESnippetPicker combines special characters and symbols with a click of a button and copies them.  
+Register, combine, and copy special characters and symbols.  
 
-미메스니펫피커는 등록된 특수문자 · 기호를 버튼 클릭으로 조합해 클립보드에 복사합니다.
+특수문자 · 기호 등을 등록하고, 조합하고, 복사합니다.
 
 <br>
 <img width="211" height="549" alt="001" src="https://github.com/miiimeworks/MSP/blob/main/Preview/001.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;"> 
@@ -26,8 +26,6 @@ MIIIMESnippetPicker combines special characters and symbols with a click of a bu
 - Copy assembled text to clipboard with one click / 조합된 텍스트를 원클릭으로 클립보드 전송.
 - Category and snippet data managed via INI file / INI 파일로 카테고리 및 스니펫 데이터 관리.
 - 4-tier button layout (Size 1–4) : 8 / 4 / 2 / 1 columns / 4단계 버튼 레이아웃 : 8열 / 4열 / 2열 / 1열.
-- Undo stack with configurable depth / 횟수 설정 가능한 Undo 스택 지원.
-- MIIIME Dark Square Theme applied / MIIIME Dark Square Theme 적용.
 
 ---
 
