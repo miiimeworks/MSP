@@ -97,7 +97,7 @@ MIIIMESnippetPicker/
 |:------------------ |:------------------------------------------------------------------------------ |
 | **Major Vendors**  | **Clean** (Passed by AhnLab V3, Kaspersky, Microsoft, Avast, ESET, etc.)       |
 | **Detection Rate** | **7 / 70** (Mostly Heuristic/Generic/Trojan-type flags)                        |
-| **Integrity**      | The source code is transparently available for verification in this repository |
+| **Integrity**      | The source is private, and the distribution files can be verified using hashes and VirusTotal results. |
 
 > This Program was created with AutoIt. Some antivirus programs may incorrectly detect it as a virus.  
 > 본 프로그램은 AutoIt으로 제작되었습니다. 일부 백신이 바이러스로 오진 할 수 있습니다. 
